@@ -10,5 +10,6 @@ String name="durga"
     }
     
 
-
+Bollean isvalid=true;
+    double price=35464.3;
   }
