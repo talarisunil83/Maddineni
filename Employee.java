@@ -9,6 +9,10 @@ String name="durga"
       System.out.println("construcor created");
     }
     
-
+System.out.println("construcor created");
+System.out.println("construcor created");
+System.out.println("construcor created");
+System.out.println("construcor created");
+System.out.println("construcor created");
 
   }
