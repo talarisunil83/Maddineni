@@ -9,10 +9,15 @@ String name="durga"
       System.out.println("construcor created");
     }
     
+
 System.out.println("construcor created");
 System.out.println("construcor created");
 System.out.println("construcor created");
 System.out.println("construcor created");
 System.out.println("construcor created");
 
+
+Bollean isvalid=true;
+    double price=35464.3;
+    
   }
